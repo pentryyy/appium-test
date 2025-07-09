@@ -37,3 +37,7 @@ src/main/resources/output
 
 ### Maven ###
 .mvn/
+
+### Allure ###
+.allure/
+allure-results/
